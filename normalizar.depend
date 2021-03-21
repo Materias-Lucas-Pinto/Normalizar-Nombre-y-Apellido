@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1463881823 source:c:\users\luciano\desktop\practicas\normalizar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"normalizar.h"
+	<string.h>
+
+1463882736 c:\users\luciano\desktop\practicas\normalizar\normalizar.h
+	<stdio.h>
+	<string.h>
+
+1463882993 source:c:\users\luciano\desktop\practicas\normalizar\normalizar.c
+	"normalizar.h"
+	<stdio.h>
+	<string.h>
+
+1463881824 source:c:\users\luciano\downloads\practicas\normalizar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"normalizar.h"
+	<string.h>
+
+1463882738 c:\users\luciano\downloads\practicas\normalizar\normalizar.h
+	<stdio.h>
+	<string.h>
+
+1468637158 source:c:\users\luciano\downloads\practicas\normalizar\normalizar.c
+	"normalizar.h"
+	<stdio.h>
+	<string.h>
+
+1500033224 source:f:\users\al\documents\personal\ingenieria en informatica\materias\programacion\ejercicios resueltos\c\normalizar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"normalizar.h"
+	<string.h>
+
+1500033228 f:\users\al\documents\personal\ingenieria en informatica\materias\programacion\ejercicios resueltos\c\normalizar\normalizar.h
+	<stdio.h>
+	<string.h>
+
+1500033226 source:f:\users\al\documents\personal\ingenieria en informatica\materias\programacion\ejercicios resueltos\c\normalizar\normalizar.c
+	"normalizar.h"
+	<stdio.h>
+	<string.h>
+
